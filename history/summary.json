@@ -5,16 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/unraid.net",
     "slug": "unraid-home",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 1033,
-    "timeWeek": 1033,
-    "timeMonth": 1033,
-    "timeYear": 1033,
-    "dailyMinutesDown": {}
+    "uptime": "94.03%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "94.03%",
+    "time": 1018,
+    "timeDay": 1018,
+    "timeWeek": 1018,
+    "timeMonth": 1018,
+    "timeYear": 1018,
+    "dailyMinutesDown": {
+      "2022-07-20": 28
+    }
   }
 ]
