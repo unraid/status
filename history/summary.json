@@ -1,20 +1,20 @@
 [
   {
-    "name": "unraid.net",
-    "url": "https://unraid.net/",
+    "name": "Unraid Home",
+    "url": "https://unraid.net",
     "icon": "https://favicons.githubusercontent.com/unraid.net",
-    "slug": "unraid-net",
+    "slug": "unraid-home",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 948,
-    "timeWeek": 948,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "time": 1062,
+    "timeDay": 1062,
+    "timeWeek": 1062,
+    "timeMonth": 1062,
+    "timeYear": 1062,
     "dailyMinutesDown": {}
   }
 ]
