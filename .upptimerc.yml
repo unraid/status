@@ -22,6 +22,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  publish: true
 robotsText: "User-agent: * \n Disallow: /"
 workflowSchedule:
   graphs: "0 0 * * *"
