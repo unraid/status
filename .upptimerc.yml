@@ -27,6 +27,7 @@ status-website:
     - title: Forums
       href: https://forums.unraid.net/
   publish: true
+  faviconSvg: https://craftassets.unraid.net/static/favicon/favicon.ico?v=1.0
 robotsText: "User-agent: * \n Disallow: /"
 workflowSchedule:
   graphs: "0 0 * * *"
