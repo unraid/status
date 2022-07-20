@@ -15,13 +15,15 @@ status-website:
   baseUrl: /status
   logoUrl: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
   name: Unraid
-  introTitle: "Simplicity. Flexibility. Scalability. Modularity. Unraid empowers you to build the system you’ve always wanted using your preferred hardware, software, and operating systems."
-  introMessage: This is a status page for Unraid services
+  introTitle: Unraid Status
+  introMessage: "Simplicity. Flexibility. Scalability. Modularity. Unraid empowers you to build the system you’ve always wanted using your preferred hardware, software, and operating systems."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://unraid.net
+    - title: Forums
+      href: https://forums.unraid.net/
   publish: true
 robotsText: "User-agent: * \n Disallow: /"
 workflowSchedule:
