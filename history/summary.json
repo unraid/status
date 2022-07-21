@@ -25,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "unraid-docs",
     "status": "up",
-    "uptime": "5.88%",
-    "uptimeDay": "5.88%",
-    "uptimeWeek": "5.88%",
-    "uptimeMonth": "5.88%",
-    "uptimeYear": "5.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 542,
     "timeDay": 542,
     "timeWeek": 542,
     "timeMonth": 542,
     "timeYear": 542,
-    "dailyMinutesDown": {
-      "2022-07-21": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Unraid Forums",
