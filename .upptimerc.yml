@@ -33,6 +33,8 @@ status-website:
       href: https://unraid.net/contact
   publish: true
   faviconSvg: https://craftassets.unraid.net/static/favicon/favicon.ico?v=1.0
+i18n:
+  footer: ""
 robotsText: "User-agent: * \n Disallow: /"
 workflowSchedule:
   graphs: "0 0 * * *"
