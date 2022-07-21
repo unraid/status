@@ -18,6 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
+  theme: dark
   name: Unraid
   introTitle: Unraid Status
   introMessage: "To report an issue, reach out using our forums, discord, or our website."
