@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Unraid Home
     url: $URL_UNRAID_HOME
+  - name: Unraid Docs
+    url: $URL_UNRAID_DOCS
   - name: Unraid Forums
     url: $URL_UNRAID_FORUMS
 assignees: # Users to assign downtime issues (optional)
@@ -18,14 +20,16 @@ status-website:
   logoUrl: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
   name: Unraid
   introTitle: Unraid Status
-  introMessage: "Simplicity. Flexibility. Scalability. Modularity. Unraid empowers you to build the system you’ve always wanted using your preferred hardware, software, and operating systems."
+  introMessage: "To report an issue, reach out using our forums, discord, or our website."
   navbar:
     - title: Status
       href: /
-    - title: Homepage
-      href: https://unraid.net
     - title: Forums
       href: https://forums.unraid.net/
+    - title: Discord
+      href: https://discord.gg/unraid
+    - title: Contact Us
+      href: https://unraid.net/contact
   publish: true
   faviconSvg: https://craftassets.unraid.net/static/favicon/favicon.ico?v=1.0
 robotsText: "User-agent: * \n Disallow: /"
