@@ -15,8 +15,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
+  cname: status.unraid.net
+  # baseUrl: /status
   logoUrl: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
   theme: night
   name: Status
