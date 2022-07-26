@@ -24,6 +24,7 @@ status-website:
   introMessage: "To report an issue, reach out using our [Forums](https://forums.unraid.net/), [Discord](https://discord.gg/unraid), or our [website](https://unraid.net/contact)."
   publish: true
   faviconSvg: https://craftassets.unraid.net/static/favicon/favicon.ico?v=1.0
+  css: "nav > div { justify-content: center !important; }"
 i18n:
   footer: ""
 robotsText: "User-agent: * \n Disallow: /"
