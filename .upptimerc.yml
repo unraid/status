@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg
   theme: night
-  name: Status
+  name: ""
   introTitle: Unraid Status
   introMessage: "To report an issue, reach out using our [Forums](https://forums.unraid.net/), [Discord](https://discord.gg/unraid), or our [website](https://unraid.net/contact)."
   navbar:
