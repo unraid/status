@@ -22,15 +22,6 @@ status-website:
   name: ""
   introTitle: Unraid Status
   introMessage: "To report an issue, reach out using our [Forums](https://forums.unraid.net/), [Discord](https://discord.gg/unraid), or our [website](https://unraid.net/contact)."
-  navbar:
-    - title: Status
-      href: /
-    - title: Forums
-      href: https://forums.unraid.net/
-    - title: Discord
-      href: https://discord.gg/unraid
-    - title: Contact Us
-      href: https://unraid.net/contact
   publish: true
   faviconSvg: https://craftassets.unraid.net/static/favicon/favicon.ico?v=1.0
 i18n:
