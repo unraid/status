@@ -12,7 +12,7 @@
     "uptimeYear": "99.86%",
     "time": 801,
     "timeDay": 804,
-    "timeWeek": 893,
+    "timeWeek": 881,
     "timeMonth": 801,
     "timeYear": 801,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 547,
-    "timeWeek": 634,
+    "timeWeek": 625,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 743,
     "timeDay": 873,
-    "timeWeek": 905,
+    "timeWeek": 893,
     "timeMonth": 743,
     "timeYear": 743,
     "dailyMinutesDown": {}
@@ -60,19 +60,19 @@
     "url": "$URL_MY_SERVERS_STAGING",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-servers-staging",
-    "status": "down",
-    "uptime": "98.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
-    "time": 317,
-    "timeDay": 318,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
+    "time": 296,
+    "timeDay": 209,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-08-04": 0,
+      "2022-08-04": 40,
       "2022-07-28": 126
     }
   }
