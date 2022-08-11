@@ -1,7 +1,7 @@
 url: $URL_MY_SERVERS_STAGING
-status: down
-code: 502
-responseTime: 287
-lastUpdated: 2022-08-11T19:04:57.105Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2022-08-11T19:20:42.373Z
 startTime: Thu Jul 28 2022 18:59:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
