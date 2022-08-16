@@ -42,19 +42,19 @@
     "url": "$URL_UNRAID_FORUMS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "unraid-forums",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 743,
-    "timeWeek": 792,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 743,
+    "timeDay": 764,
+    "timeWeek": 794,
+    "timeMonth": 743,
+    "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 14
     }
   },
   {
