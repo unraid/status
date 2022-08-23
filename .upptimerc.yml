@@ -9,6 +9,8 @@ sites:
     url: $URL_UNRAID_DOCS
   - name: Unraid Forums
     url: $URL_UNRAID_FORUMS
+  - name: My Servers
+    url: $URL_MY_SERVERS
   - name: My Servers (Staging)
     url: $URL_MY_SERVERS_STAGING
 assignees: # Users to assign downtime issues (optional)
