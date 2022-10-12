@@ -43,19 +43,19 @@
     "url": "$URL_UNRAID_FORUMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-forums",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 1109,
-    "timeWeek": 910,
-    "timeMonth": 791,
-    "timeYear": 766,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 765,
+    "timeDay": 960,
+    "timeWeek": 882,
+    "timeMonth": 787,
+    "timeYear": 765,
     "dailyMinutesDown": {
-      "2022-10-12": 0
+      "2022-10-12": 19
     }
   },
   {
