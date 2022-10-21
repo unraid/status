@@ -4,9 +4,9 @@
     "url": "$URL_UNRAID_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 1025,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2022-10-21": 0,
       "2022-09-21": 19,
       "2022-07-20": 32
     }
@@ -84,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers-staging",
     "status": "up",
-    "uptime": "94.40%",
+    "uptime": "94.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.40%",
+    "uptimeYear": "94.43%",
     "time": 260,
     "timeDay": 84,
     "timeWeek": 187,
