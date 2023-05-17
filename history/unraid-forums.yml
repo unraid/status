@@ -1,7 +1,7 @@
 url: $URL_UNRAID_FORUMS
-status: down
-code: 503
-responseTime: 120
-lastUpdated: 2023-05-17T17:35:15.275Z
+status: up
+code: 200
+responseTime: 557
+lastUpdated: 2023-05-17T18:05:20.254Z
 startTime: Wed Jul 20 2022 21:42:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
