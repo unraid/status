@@ -1,7 +1,7 @@
 url: $URL_UNRAID_HOME
-status: down
-code: 403
-responseTime: 112
-lastUpdated: 2023-06-15T14:05:14.045Z
+status: up
+code: 200
+responseTime: 1328
+lastUpdated: 2023-06-15T14:48:42.145Z
 startTime: Wed Jul 20 2022 13:42:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
