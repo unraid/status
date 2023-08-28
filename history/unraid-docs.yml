@@ -1,7 +1,7 @@
 url: $URL_UNRAID_DOCS
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2023-08-27T23:01:19.719Z
+status: down
+code: 502
+responseTime: 4312
+lastUpdated: 2023-08-28T16:49:00.011Z
 startTime: 2022-07-21T12:20:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
