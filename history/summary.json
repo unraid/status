@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.83%",
-    "time": 1087,
-    "timeDay": 158,
-    "timeWeek": 150,
-    "timeMonth": 154,
-    "timeYear": 1065,
+    "time": 1086,
+    "timeDay": 132,
+    "timeWeek": 147,
+    "timeMonth": 125,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2024-03-27": 120,
       "2024-03-07": 120,
@@ -34,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-docs",
     "status": "up",
-    "uptime": "97.58%",
+    "uptime": "97.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 354,
-    "timeDay": 260,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 273,
+    "time": 353,
+    "timeDay": 205,
+    "timeWeek": 222,
+    "timeMonth": 220,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2024-01-12": 17,
       "2023-08-28": 16,
@@ -63,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.88%",
-    "time": 660,
-    "timeDay": 618,
-    "timeWeek": 1204,
-    "timeMonth": 783,
-    "timeYear": 679,
+    "time": 659,
+    "timeDay": 487,
+    "timeWeek": 1205,
+    "timeMonth": 773,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-04-02": 133,
       "2024-03-12": 112,
@@ -91,13 +91,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 603,
-    "timeDay": 319,
-    "timeWeek": 223,
-    "timeMonth": 231,
+    "timeDay": 205,
+    "timeWeek": 227,
+    "timeMonth": 228,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2023-05-29": 17,
-      "2023-04-13": 16
+      "2023-05-29": 17
     }
   },
   {
@@ -110,14 +109,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 386,
-    "timeWeek": 170,
-    "timeMonth": 155,
-    "timeYear": 178,
-    "dailyMinutesDown": {
-      "2023-04-13": 16
-    }
+    "timeDay": 146,
+    "timeWeek": 178,
+    "timeMonth": 157,
+    "timeYear": 179,
+    "dailyMinutesDown": {}
   }
 ]
