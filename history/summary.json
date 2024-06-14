@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-home",
     "status": "up",
-    "uptime": "97.73%",
+    "uptime": "97.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 944,
-    "timeDay": 157,
-    "timeWeek": 127,
+    "time": 942,
+    "timeDay": 91,
+    "timeWeek": 125,
     "timeMonth": 126,
-    "timeYear": 932,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2024-03-27": 120,
       "2024-03-07": 120,
@@ -23,8 +23,7 @@
       "2023-11-21": 42,
       "2023-11-16": 45,
       "2023-08-30": 88,
-      "2023-08-28": 120,
-      "2023-06-15": 44
+      "2023-08-28": 120
     }
   },
   {
@@ -33,20 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-docs",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 341,
-    "timeDay": 203,
-    "timeWeek": 221,
-    "timeMonth": 248,
+    "time": 340,
+    "timeDay": 202,
+    "timeWeek": 225,
+    "timeMonth": 246,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-01-12": 17,
-      "2023-08-28": 16,
-      "2023-06-15": 44
+      "2023-08-28": 16
     }
   },
   {
@@ -61,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 625,
-    "timeDay": 73,
-    "timeWeek": 133,
-    "timeMonth": 128,
-    "timeYear": 629,
+    "timeDay": 140,
+    "timeWeek": 134,
+    "timeMonth": 129,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2024-05-09": 28,
       "2024-05-02": 379,
@@ -72,8 +70,7 @@
       "2024-03-12": 112,
       "2023-12-10": 27,
       "2023-11-02": 45,
-      "2023-06-29": 149,
-      "2023-06-15": 44
+      "2023-06-29": 149
     }
   },
   {
@@ -88,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 168,
-    "timeWeek": 267,
-    "timeMonth": 251,
-    "timeYear": 246,
+    "timeDay": 364,
+    "timeWeek": 287,
+    "timeMonth": 255,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -100,16 +97,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers-staging",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 305,
-    "timeWeek": 169,
-    "timeMonth": 182,
-    "timeYear": 176,
+    "timeDay": 373,
+    "timeWeek": 195,
+    "timeMonth": 184,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
