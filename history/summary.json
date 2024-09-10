@@ -92,9 +92,9 @@
     "url": "$URL_MY_SERVERS_STAGING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -103,6 +103,8 @@
     "timeWeek": 285,
     "timeMonth": 245,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-10": 0
+    }
   }
 ]
