@@ -74,19 +74,19 @@
     "url": "$URL_MY_SERVERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 304,
-    "timeWeek": 369,
-    "timeMonth": 327,
+    "timeDay": 263,
+    "timeWeek": 348,
+    "timeMonth": 322,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2024-11-03": 0
+      "2024-11-03": 9
     }
   },
   {
