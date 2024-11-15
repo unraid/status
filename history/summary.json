@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 694,
-    "timeDay": 119,
-    "timeWeek": 142,
-    "timeMonth": 139,
-    "timeYear": 512,
+    "time": 692,
+    "timeDay": 199,
+    "timeWeek": 143,
+    "timeMonth": 142,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2024-03-27": 120,
       "2024-03-07": 120,
       "2024-02-28": 16,
       "2023-12-29": 59,
-      "2023-11-21": 42,
-      "2023-11-16": 45
+      "2023-11-21": 42
     }
   },
   {
@@ -35,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 288,
-    "timeWeek": 278,
-    "timeMonth": 267,
+    "time": 259,
+    "timeDay": 296,
+    "timeWeek": 281,
+    "timeMonth": 269,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2024-01-12": 17
@@ -50,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-forums",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 544,
-    "timeDay": 115,
-    "timeWeek": 124,
-    "timeMonth": 156,
+    "timeDay": 582,
+    "timeWeek": 190,
+    "timeMonth": 169,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2024-10-13": 16,
@@ -81,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 363,
-    "timeWeek": 296,
-    "timeMonth": 295,
+    "timeDay": 276,
+    "timeWeek": 287,
+    "timeMonth": 292,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -99,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 373,
-    "timeWeek": 182,
-    "timeMonth": 198,
-    "timeYear": 190,
+    "timeDay": 78,
+    "timeWeek": 178,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {}
   }
 ]
