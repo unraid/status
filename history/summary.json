@@ -52,7 +52,7 @@
     "timeMonth": 106,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-04-02": 1387,
+      "2025-04-02": 1403,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -113,19 +113,19 @@
     "url": "$URL_MY_SERVERS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 388,
-    "timeWeek": 353,
-    "timeMonth": 331,
+    "time": 292,
+    "timeDay": 308,
+    "timeWeek": 337,
+    "timeMonth": 328,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-04-02": 0
+      "2025-04-02": 17
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "$URL_MY_SERVERS_STAGING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-servers-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 234,
-    "timeWeek": 132,
-    "timeMonth": 98,
+    "timeDay": 172,
+    "timeWeek": 123,
+    "timeMonth": 97,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-04-02": 0
+      "2025-04-02": 17
     }
   }
 ]
