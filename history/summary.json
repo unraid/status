@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 301,
-    "timeDay": 237,
-    "timeWeek": 267,
-    "timeMonth": 293,
-    "timeYear": 183,
+    "time": 299,
+    "timeDay": 228,
+    "timeWeek": 272,
+    "timeMonth": 296,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2025-04-21": 79
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 278,
-    "timeWeek": 303,
-    "timeMonth": 345,
+    "timeDay": 314,
+    "timeWeek": 286,
+    "timeMonth": 343,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-forums",
     "status": "down",
-    "uptime": "90.19%",
+    "uptime": "90.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.91%",
-    "time": 350,
-    "timeDay": 122,
-    "timeWeek": 113,
+    "uptimeYear": "76.64%",
+    "time": 349,
+    "timeDay": 75,
+    "timeWeek": 104,
     "timeMonth": 105,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-05-07": 33,
+      "2025-05-08": 34,
+      "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -156,10 +157,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 313,
+    "timeDay": 413,
     "timeWeek": 323,
-    "timeMonth": 296,
-    "timeYear": 309,
+    "timeMonth": 304,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-04-02": 17
     }
@@ -176,10 +177,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 102,
+    "timeDay": 103,
     "timeWeek": 91,
-    "timeMonth": 81,
-    "timeYear": 148,
+    "timeMonth": 83,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-04-02": 17
     }
