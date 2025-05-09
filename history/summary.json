@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
-    "time": 299,
-    "timeDay": 228,
-    "timeWeek": 272,
-    "timeMonth": 296,
+    "time": 298,
+    "timeDay": 235,
+    "timeWeek": 279,
+    "timeMonth": 297,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-04-21": 79
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 314,
+    "time": 281,
+    "timeDay": 295,
     "timeWeek": 286,
-    "timeMonth": 343,
+    "timeMonth": 345,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "unraid-forums",
     "status": "down",
-    "uptime": "90.11%",
+    "uptime": "90.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.64%",
-    "time": 349,
-    "timeDay": 75,
-    "timeWeek": 104,
-    "timeMonth": 105,
+    "uptimeYear": "76.36%",
+    "time": 348,
+    "timeDay": 143,
+    "timeWeek": 105,
+    "timeMonth": 107,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-05-08": 34,
+      "2025-05-09": 34,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -141,8 +142,7 @@
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 322,
-      "2024-10-13": 16,
-      "2024-05-09": 28
+      "2024-10-13": 16
     }
   },
   {
@@ -156,10 +156,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 413,
-    "timeWeek": 323,
-    "timeMonth": 304,
+    "time": 296,
+    "timeDay": 426,
+    "timeWeek": 319,
+    "timeMonth": 309,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-04-02": 17
@@ -177,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 103,
-    "timeWeek": 91,
-    "timeMonth": 83,
+    "timeDay": 123,
+    "timeWeek": 90,
+    "timeMonth": 84,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-04-02": 17
